@@ -1,0 +1,5 @@
+"/Users/pablog178/Dev/TiSwipeRefreshLayout/build/generated/java/com/rkam/swiperefreshlayout/SwiperefreshlayoutBootstrap.java"
+"/Users/pablog178/Dev/TiSwipeRefreshLayout/src/com/rkam/swiperefreshlayout/MySwipeRefreshLayout.java"
+"/Users/pablog178/Dev/TiSwipeRefreshLayout/src/com/rkam/swiperefreshlayout/SwipeRefresh.java"
+"/Users/pablog178/Dev/TiSwipeRefreshLayout/src/com/rkam/swiperefreshlayout/SwipeRefreshProxy.java"
+"/Users/pablog178/Dev/TiSwipeRefreshLayout/src/com/rkam/swiperefreshlayout/SwiperefreshlayoutModule.java"
